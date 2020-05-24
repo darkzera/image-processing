@@ -1,0 +1,33 @@
+--> Proposito do projeto
+* realizar o download das imagens/wallpaper a partir de um Json
+* fazer a consulta ao Json via Curl, urllib ou alguma coisa do tipo (nao consegui ainda wtf)
+* identificar cor principal do wallpaper(img baixada)
+
+-- essas anotacoes sao pra consulta pessoal. Nao tentem compreender kk
+---------------------------------
+Goals: 
+
+avaliar json de retorno com as informacoes
+done - encontrar o link da imagem
+grepar todos (fiz a consulta navegando entre a estrutura de dado fornecida, nao foi necessario usar o ferramental de texto, mudança de perpectiva) -> consulto o arquivo completo
+done - fazer um loop com download disso em pyhon?
+******
+done - acessar corretamente a tupla com o valor de download
+done - baixar encaminhando pro path indicado
+
+exemplo do curl
+	$ curl https://unsplash.com/napi/search/photos\?query\=desktop%20background\&xp\=\&per_page\=20\&page\=2 >> full.json
+TODO:
+- como fazer no python
+- ao inves de consultar arquivo, fazer o get direto na url ??? *urllib* -> ainda nao consegui isso
+- explorar mais a estrutura, json recebida (por arquivo ou request http) [
+	-> formato
+	-> tamanho/resolucao
+	-> ???
+]
+******
+
+
+
+
+

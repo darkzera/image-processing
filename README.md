@@ -1,7 +1,7 @@
 # Proposito do projeto
-### 1 realizar o download das imagens/wallpaper a partir de um Json
-### 2 fazer a consulta ao Json via Curl, urllib ou alguma coisa do tipo (nao consegui ainda wtf)
-### 3 identificar cor principal do wallpaper(img baixada)
+#### 1 realizar o download das imagens/wallpaper a partir de um Json
+#### 2 fazer a consulta ao Json via Curl, urllib ou alguma coisa do tipo (nao consegui ainda wtf)
+#### 3 identificar cor principal do wallpaper(img baixada)
 
 -- essas anotacoes sao pra consulta pessoal. Nao tentem compreender kk
 ---------------------------------

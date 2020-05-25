@@ -35,3 +35,15 @@
 ### encontrar cores dominantes em cada 
         R   G   B
 	   218,150,149
+
+
+-----------------
+
+# referencias: 
+
+
+	https://adamspannbauer.github.io/2018/03/02/app-icon-dominant-colors/
+
+	https://zeevgilovitz.com/detecting-dominant-colours-in-python
+
+	https://www.dataquest.io/blog/tutorial-colors-image-clustering-python/

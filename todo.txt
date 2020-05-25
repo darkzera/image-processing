@@ -26,6 +26,10 @@ TODO:
 	-> ???
 ]
 ******
+# processamento de imagem - 
+## ## encontrar cores dominantes em cada imagem
+  	#   R   G   B
+	   218,150,149
 
 
 

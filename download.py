@@ -2,6 +2,8 @@ import codecs
 import json
 import urllib.request
 
+deposito = '/home/darkzera/path.json'
+
 pasta = '/home/darkzera/testeDo/'
 
 with codecs.open('/home/darkzera/Documentos/wallpaper-downloader/t.json', encoding='utf-8-sig') as infos:

@@ -38,10 +38,10 @@
 ## exemplo do curl
 	$ curl https://unsplash.com/napi/search/photos\?query\=desktop%20background\&xp\=\&per_page\=20\&page\=2 >> full.json
 
-
 -----------------
 
-# referencias p. analise da imagem
+# referencias: 
+
 
 
 	https://adamspannbauer.github.io/2018/03/02/app-icon-dominant-colors/
